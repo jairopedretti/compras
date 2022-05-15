@@ -1,1 +1,1 @@
-# compras
+lista de compras a fazer
