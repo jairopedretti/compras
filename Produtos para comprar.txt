@@ -2,3 +2,4 @@ agua sanitaria
 cloro
 leite
 margarina
+manteiga
